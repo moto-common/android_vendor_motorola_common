@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/common/proprietary/vendor/lib/vendor.qti.hardware.bluetooth_sar@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.bluetooth_sar@1.1.so \
     vendor/motorola/common/proprietary/vendor/lib/vendor.qti.hardware.scve.objecttracker@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.scve.objecttracker@1.0.so \
     vendor/motorola/common/proprietary/vendor/lib/vendor.qti.hardware.scve.panorama@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.scve.panorama@1.0.so \
-    vendor/motorola/common/proprietary/vendor/lib64/com.dsi.ant@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.dsi.ant@1.0.so \
     vendor/motorola/common/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so \
     vendor/motorola/common/proprietary/vendor/lib64/hw/audio.bluetooth_qti.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.bluetooth_qti.default.so \
     vendor/motorola/common/proprietary/vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so \
