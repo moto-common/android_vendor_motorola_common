@@ -9,7 +9,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/common/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
     vendor/motorola/common/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
     vendor/motorola/common/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.0-service-qti \
-    vendor/motorola/common/proprietary/vendor/bin/expat:$(TARGET_COPY_OUT_VENDOR)/bin/expat \
+    vendor/motorola/common/proprietary/vendor/bin/motobox:$(TARGET_COPY_OUT_VENDOR)/bin/motobox \
     vendor/motorola/common/proprietary/vendor/bin/msm_irqbalance:$(TARGET_COPY_OUT_VENDOR)/bin/msm_irqbalance \
     vendor/motorola/common/proprietary/vendor/bin/thermal-engine:$(TARGET_COPY_OUT_VENDOR)/bin/thermal-engine \
     vendor/motorola/common/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
@@ -57,7 +57,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/common/proprietary/vendor/lib64/libscveObjectTracker_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libscveObjectTracker_stub.so \
     vendor/motorola/common/proprietary/vendor/lib64/libsoc_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsoc_helper.so \
     vendor/motorola/common/proprietary/vendor/lib64/libsoc_helper_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsoc_helper_jni.so \
-    vendor/motorola/common/proprietary/vendor/lib64/pixel-power-ext-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/pixel-power-ext-V1-ndk.so \
     vendor/motorola/common/proprietary/vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so \
     vendor/motorola/common/proprietary/vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so \
     vendor/motorola/common/proprietary/vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so \
